@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todo-multi-platform/static/css/main.40ecfed7.chunk.css",
+    "main.js": "/todo-multi-platform/static/js/main.7ab68dbb.chunk.js",
+    "main.js.map": "/todo-multi-platform/static/js/main.7ab68dbb.chunk.js.map",
+    "runtime-main.js": "/todo-multi-platform/static/js/runtime-main.f7f440ee.js",
+    "runtime-main.js.map": "/todo-multi-platform/static/js/runtime-main.f7f440ee.js.map",
+    "static/js/2.d27372ef.chunk.js": "/todo-multi-platform/static/js/2.d27372ef.chunk.js",
+    "static/js/2.d27372ef.chunk.js.map": "/todo-multi-platform/static/js/2.d27372ef.chunk.js.map",
+    "index.html": "/todo-multi-platform/index.html",
+    "precache-manifest.89366a6dc153a822857bede9c18331b4.js": "/todo-multi-platform/precache-manifest.89366a6dc153a822857bede9c18331b4.js",
+    "service-worker.js": "/todo-multi-platform/service-worker.js",
+    "static/css/main.40ecfed7.chunk.css.map": "/todo-multi-platform/static/css/main.40ecfed7.chunk.css.map",
+    "static/media/img1.jpg": "/todo-multi-platform/static/media/img1.0aa9e68d.jpg",
+    "static/media/img2.jpg": "/todo-multi-platform/static/media/img2.f8c220cb.jpg",
+    "static/media/img3.jpg": "/todo-multi-platform/static/media/img3.46733691.jpg",
+    "static/media/landscape-1.jpg": "/todo-multi-platform/static/media/landscape-1.1fb6285a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7f440ee.js",
+    "static/js/2.d27372ef.chunk.js",
+    "static/css/main.40ecfed7.chunk.css",
+    "static/js/main.7ab68dbb.chunk.js"
+  ]
+}
