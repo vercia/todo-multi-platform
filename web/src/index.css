@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.app {
+  display: flex;
+  width: 100vw;
+  height: 100%;
+}
+
+@media (min-width: 1440px) {
+  .app {
+    height: 100vh;
+  }
+}
+
+.main {
+  flex-grow: 1;
+  height: 100vh;
+}
+
+h1 {
+  margin: 0;
+}
+
+.tether-element {
+  z-index: 10000;
+}
+
+@media (min-width: 320px) {
+  .tether-element {
+    margin-top: -300px;
+  }
+}
+
+@media (min-width: 375px) {
+  .tether-element {
+    margin-top: 130px;
+  }
+}
+
+.calendarContainer .heading {
+  margin-top: -5px;
+}
+
+.calendarContainer button {
+  background-color: #56f2f8;
+  margin-top: -10px;
+}
+
+@media (min-width: 1024px) {
+  .calendarContainer button {
+    margin-top: -15px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .calendarContainer button {
+    margin-top: -2px;
+  }
+}
+
+.iconArrow {
+  right: 9%;
+  position: absolute;
+}
+
+.makeStyles-list-39  > li {
+  padding-left: 0;
+}
