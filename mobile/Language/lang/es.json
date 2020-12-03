@@ -1,0 +1,26 @@
+{
+  "Home": {
+    "taskList": "Lista de tareas"
+  },
+  "Calendar": {
+    "calendar": "Calendario"
+  },
+  "Settings": {
+    "blackTheme": "Tema negro",
+    "backgroundImage": "Imagen de fondo",
+    "language": "Idioma",
+    "sounds": "Sonidos",
+    "dialogSettings": "Puede configurar el idioma en la configuración del teléfono",
+    "close": "cerca",
+    "add": "añadir",
+    "addTask": "agregar una tarea",
+    "writeS": "escribe algo",
+    "chooseL": "seleccionar idioma",
+    "chooseI": "seleccionar una foto"
+  },
+  "bottom": {
+    "home": "Casa",
+    "calendar": "Calendario",
+    "settings": "Ajustes"
+  }
+}

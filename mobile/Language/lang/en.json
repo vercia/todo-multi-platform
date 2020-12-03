@@ -1,0 +1,26 @@
+{
+  "Home": {
+    "taskList": "Task List"
+  },
+  "Calendar": {
+    "calendar": "Calendar"
+  },
+  "Settings": {
+    "blackTheme": "Black theme",
+    "backgroundImage": "Background image",
+    "language": "Language",
+    "sounds": "Sounds",
+    "dialogSettings": "You can choose language in settings on your phone",
+    "close": "Close",
+    "add": "Add",
+    "addTask": "Add task",
+    "writeS": "Write something",
+    "chooseL": "Choose language",
+    "chooseI": "Choose image"
+  },
+  "bottom": {
+    "home": "Home",
+    "calendar": "Calendar",
+    "settings": "Settings"
+  }
+}

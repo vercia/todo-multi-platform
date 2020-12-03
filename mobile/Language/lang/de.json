@@ -1,0 +1,26 @@
+{
+  "Home": {
+    "taskList": "Aufgabenliste"
+  },
+  "Calendar": {
+    "calendar": "Kalender"
+  },
+  "Settings": {
+    "blackTheme": "Schwarzes Thema",
+    "background": "Hintergrundbild",
+    "language": "Sprache",
+    "sounds": "Klänge",
+    "dialogSettings": "Sie können die Sprache in den Einstellungen des Telefons einstellen",
+    "close": "schließen",
+    "add": "hinzufügen",
+    "addTask": "eine Aufgabe hinzufügen",
+    "writeS": "schreibe etwas",
+    "chooseL": "Sprache auswählen",
+    "chooseI": "Wählen Sie ein Foto aus"
+  },
+  "bottom": {
+    "home": "Haus",
+    "calendar": "Kalender",
+    "settings": "Einstellungen"
+  }
+}

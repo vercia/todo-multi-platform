@@ -1,0 +1,26 @@
+{
+  "Home": {
+    "listTask": "Lista rzeczy do zrobienia"
+  },
+  "Calendar": {
+    "calendar": "Kalendarz"
+  },
+  "Settings": {
+    "blackTheme": "Ciemny motyw",
+    "backgroundImage": "Obrazek tła",
+    "language": "Język",
+    "sounds": "Dźwięki",
+    "dialogSettings": "Możesz ustawić język w ustawieniach telefonu",
+    "close": "Zamknij",
+    "add": "Dodaj",
+    "addTask": "Dodaj zadanie",
+    "writeS": "Napisz coś",
+    "chooseL": "Wybierz język",
+    "chooseI": "Wybierz obrazek"
+  },
+  "bottom": {
+    "home": "Dom",
+    "calendar": "Kalendarz",
+    "settings": "Ustawienia"
+  }
+}
